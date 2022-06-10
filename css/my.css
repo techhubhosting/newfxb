@@ -1,0 +1,89 @@
+.contact-h1{font-size:30px;}
+.link-color{color: green;}
+.feature-logos{height: 1000px;width: 100px;}
+.ntv{height: 300px;width: 150px;}
+.youtube-logo{height: 300px;
+width: 200px;}
+.ubc{height: 300px;width: 200px;}
+.youtube-channel{width: 50px}
+.logo-edit{height: 50px;width: 80px;}
+.img-edit{
+	 margin: 0 auto;
+    width: 100%;
+    padding: 100px 0px;
+}
+  .contact-img img {
+    width: 100%;
+  }
+  .header-text{
+  	font-size: 25px;
+    color: white;
+  }
+.case-study1 {
+  padding-top: 80px;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 40%, rgba(142,142,144,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+.case-study1 .content h4 {
+  padding-bottom: 13px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  color:white;
+  font-weight: bold;
+}
+
+.case-study1 .content p {
+  font-size: 14px;
+  color: white;
+}
+
+.case-study1 .content .btn {
+  margin-top: 30px;
+}
+.case-study-title{
+    font-size: 30px;
+    color: white
+}
+.case-study-white{
+color: white;
+}
+.button{
+text-align: center;
+}
+.read{
+	border-radius: 50px;
+	border-color: blue;
+	background: white;
+}
+.daniel{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px
+}
+
+#team-img{
+  height:400px;
+  width:400px
+}
+.case-description{
+  font-family: Montserrat;
+  font-size: 50px;
+}
+.paypal-payment{
+  color: grey;
+  font-size: 16px;
+  font-family: Montserrat;
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+#img-center{
+  background: center;
+}
+.my_class_name {
+  padding: 6px;
+   border: 9px inset #e0e0e0;
+  
+}
