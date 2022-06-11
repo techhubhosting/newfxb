@@ -17,13 +17,12 @@ width: 200px;}
   }
   .header-text{
   	font-size: 25px;
-    color: white;
+    color:white;
   }
 .case-study1 {
   padding-top: 80px;
-  background: rgb(0,0,0);
-  background: linear-gradient(90deg, rgba(0,0,0,1) 40%, rgba(142,142,144,1) 100%, rgba(0,212,255,1) 100%);
-
+  background: rgb(16,3,20);
+  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
 }
 
 .case-study1 .content h4 {
@@ -31,13 +30,13 @@ width: 200px;}
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   text-transform: uppercase;
-  color:white;
+  color:#8E99B3;
   font-weight: bold;
 }
 
 .case-study1 .content p {
   font-size: 14px;
-  color: white;
+  color: #8E99B3;
 }
 
 .case-study1 .content .btn {

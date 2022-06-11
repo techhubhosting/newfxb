@@ -10,8 +10,9 @@
  @import url("https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,400i,700,700i,900,900i|Poppins:300,400,500,600,700|Roboto:300,400,500,700");
  /* Global Body Style */
  body {
-   color: #fff;
-   background: #111111;
+   color: #8E99B3;
+   background: rgb(16,3,20);
+   background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
    font-family: 'Inter', sans-serif;
    text-rendering: optimizeLegibility;
    -webkit-font-smoothing: antialiased;
@@ -21,7 +22,7 @@
  /* Heading Fonts Size */
  h1, h2, h3 {
   font-family: 'Inter', sans-serif;
-   color:white;
+   color:#8E99B3;
    font-style: bold;
  }
  
@@ -281,6 +282,8 @@
  /*logo style*/
  .navigation {
    background: black none repeat scroll 0 0;
+   background: rgb(16,3,20);
+  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
    margin-bottom: 0;
    border-bottom: 0;
    padding: 5px 0;
@@ -292,7 +295,8 @@
  }
  
  .sticky-header {
-   background: black;
+  background: rgb(16,3,20);
+  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
  
  }
  
@@ -602,7 +606,8 @@
   */
  .footer {
    padding: 65px 0 40px;
-   background: #111111;
+   background: rgb(16,3,20);
+background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
    font-size: 16px;
    line-height: 29px;
    color: rgba(255, 255, 255, 0.8);
@@ -726,13 +731,13 @@
    font-family: 'Open Sans', sans-serif;
    font-size: 18px;
    text-transform: uppercase;
-   color: white;
+   color: #8E99B3;
    font-weight: bold;
  }
  
  .case-study .content p {
    font-size: 16px;
-   color: grey;
+   color: #8E99B3;
    font-weight: bold;
  }
  
@@ -1004,7 +1009,8 @@
   Pricing Style
  ***********************************************/
  .pricing-table {
-   background: white;
+  background: rgb(16,3,20);
+  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
    padding-bottom: 65px;
  }
  
@@ -1023,7 +1029,7 @@
  .pricing-title,
  .features-title,
  .price {
-   color: black;
+   color:  #8E99B3;
  }
  
  .pricing-title,
@@ -1243,7 +1249,8 @@
   Services Style
  ***********************************************/
  .services {
-   background: black;
+  background: rgb(16,3,20);
+  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
    padding: 53px 0 9px;
  }
  
@@ -2393,6 +2400,7 @@
    footer {
      padding: 20px 0;
      text-align: center;
+    
    }
    footer br {
      display: none;
