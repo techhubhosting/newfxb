@@ -21,8 +21,8 @@ width: 200px;}
   }
 .case-study1 {
   padding-top: 80px;
-  background: rgb(16,3,20);
-  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
+  background: rgb(44,6,56);
+background: linear-gradient(90deg, rgba(44,6,56,1) 4%, rgba(19,24,32,1) 46%, rgba(44,6,56,1) 100%);
 }
 
 .case-study1 .content h4 {
@@ -86,3 +86,7 @@ text-align: center;
    border: 9px inset #e0e0e0;
   
 }
+
+
+background: rgb(16,3,20);
+background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);

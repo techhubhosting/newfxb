@@ -1249,8 +1249,8 @@ background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgb
   Services Style
  ***********************************************/
  .services {
-  background: rgb(16,3,20);
-  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
+  background: rgb(44,6,56);
+background: linear-gradient(90deg, rgba(44,6,56,1) 4%, rgba(19,24,32,1) 46%, rgba(44,6,56,1) 100%);
    padding: 53px 0 9px;
  }
  
