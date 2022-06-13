@@ -974,7 +974,8 @@ background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgb
  ***********************************************/
  .contact-call-to-action {
    position: relative;
-   background: #171717;
+   background: rgb(62,3,80);
+   background: radial-gradient(circle, rgba(62,3,80,1) 4%, rgba(19,24,32,1) 32%, rgba(19,24,32,1) 63%, rgba(62,3,80,1) 100%);;
    width: 100%;
  }
  
@@ -2216,7 +2217,8 @@ background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgb
  
  .contact-form {
    padding: 55px 0;
-   background: white;
+   background: rgb(62,3,80);
+   background: radial-gradient(circle, rgba(62,3,80,1) 4%, rgba(19,24,32,1) 32%, rgba(19,24,32,1) 63%, rgba(62,3,80,1) 100%);
  }
  
  /**
