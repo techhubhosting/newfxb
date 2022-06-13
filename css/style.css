@@ -21,7 +21,7 @@
  
  /* Heading Fonts Size */
  h1, h2, h3 {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Montserrat', sans-serif;
    color:#8E99B3;
    font-style: bold;
  }
@@ -405,7 +405,8 @@
    height: 100%;
    margin: 0 auto;
    text-align: center;
-   background-color: #171717;
+   background: rgb(62,3,80);
+   background: radial-gradient(circle, rgba(62,3,80,1) 4%, rgba(19,24,32,1) 32%, rgba(19,24,32,1) 63%, rgba(62,3,80,1) 100%);
    z-index: 9999999999999;
  }
  
@@ -1009,8 +1010,8 @@ background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgb
   Pricing Style
  ***********************************************/
  .pricing-table {
-  background: rgb(16,3,20);
-  background: linear-gradient(90deg, rgba(16,3,20,1) 4%, rgba(19,24,32,1) 46%, rgba(16,3,20,1) 100%);
+  background: rgb(62,3,80);
+  background: radial-gradient(circle, rgba(62,3,80,1) 4%, rgba(19,24,32,1) 32%, rgba(19,24,32,1) 63%, rgba(62,3,80,1) 100%);
    padding-bottom: 65px;
  }
  
