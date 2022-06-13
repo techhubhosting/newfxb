@@ -21,8 +21,8 @@ width: 200px;}
   }
 .case-study1 {
   padding-top: 80px;
-  background: rgb(44,6,56);
-background: linear-gradient(90deg, rgba(44,6,56,1) 4%, rgba(19,24,32,1) 46%, rgba(44,6,56,1) 100%);
+  background: rgb(62,3,80);
+  background: radial-gradient(circle, rgba(62,3,80,1) 4%, rgba(19,24,32,1) 32%, rgba(19,24,32,1) 63%, rgba(62,3,80,1) 100%);
 }
 
 .case-study1 .content h4 {
